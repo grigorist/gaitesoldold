@@ -47,7 +47,7 @@
         "fullcalendar": "^3.9.0",
         "google": "^2.1.0",
         "google-charts": "^1.1.0",
-        "googleapis": "^31.0.2",
+        "googleapis": "^59.0.0",
         "gulp-html-prettify": "0.0.1",
         "gulp-htmlmin": "^4.0.0",
         "gulp-rename": "^1.2.3",
